@@ -1,0 +1,300 @@
+*{
+    margin: 0rem;
+    border: 0rem;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.space{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;}
+.logo{
+    display: flex;
+    justify-content: center;
+    padding-left: 23rem;
+}
+.register{
+    padding-top: 1rem;}
+.search{
+    padding-left: 23rem;
+    padding-top:2rem ;
+}
+.cart{
+    padding-left: 1rem;
+    padding-top:2rem ;
+
+}
+.btn5{
+    background-color: rgb(211,19,79);
+    margin-right: 1rem;
+    height: 2rem;
+    color: white;
+    cursor: pointer;
+}
+.incense{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+
+.ss{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    padding-bottom: 1rem;
+}
+.gif{
+    cursor: pointer;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;}
+.limitedEdition{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+.healingCrystals{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+.Buddha{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+.EvilEye{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+.salt{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+.decor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-left: 2.5rem;
+}
+.aroma{
+    padding: 2.5rem;
+    cursor: pointer;
+}
+.GiftBox{
+    padding: 2.5rem;
+    cursor: pointer;
+}
+.lamps{
+    padding: 2.5rem;
+    cursor: pointer;
+}
+.About{
+    padding: 2.5rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.one button{
+    background-color: rgb(211,19,79);
+    width: 12rem;
+    height: 1.5rem;
+    color: white;
+    cursor: pointer;
+}
+.slider{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 2.5rem;
+    padding-top: 4rem;
+    justify-content: space-between;
+    padding-bottom: 2rem;
+}
+.round img{
+    border-radius: 50%;
+    height: 11rem;
+    width: 11rem;
+    padding: 10px;
+    cursor: pointer;
+}
+.space{
+    padding-left: 4rem;
+}
+.space1{
+    padding-left: 1rem;
+}
+.space2{
+    padding-left: 2rem;
+}
+.space3{
+    padding-left: 3rem;
+}
+.space4{
+    padding-left: 4rem;
+}
+.space5{
+    padding-left: 4rem;
+}
+#shop{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    height:2.8rem;
+    background-color: rgb(211,19,79);
+    color:white
+    
+}
+.festive{
+    padding: 13px;
+    cursor: pointer;
+}
+.corp{
+    padding: 13px;
+    cursor: pointer;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.Contact{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 23rem;
+    background-color: rgb(255,185,190);
+    color: white;
+}
+.firstPart{
+    display: flex;
+
+}
+.last{
+    display: flex;
+    flex-direction: column;
+}
+.lg{
+    padding-top: 3rem;
+    padding-left: 4rem;
+    padding-right: 3rem;
+}
+
+.fa-facebook {
+    background: rgb(255,185,190);
+    color: white;
+   
+  }
+  
+  .fa-twitter {
+    background: rgb(255,185,190);
+    color: white;
+  }
+  
+  .fa-google {
+    background: rgb(255,185,190);
+    color: white;
+  }
+  .fa-instagram{
+    background: rgb(255,185,190);
+    color: white;
+  }
+  .socialmedia{
+      display: flex;
+      justify-content: space-between;
+      padding-left: 3.5rem;
+      padding-top: 2rem;
+      padding-right: 3rem;
+  }
+  .last1{
+      display: flex;
+      flex-direction: column;
+      padding: 2rem;
+      padding-top: 5rem;
+  }
+  .last2{
+      display:flex;
+      flex-direction: column;
+      padding: 2rem;
+      padding-top: 5rem;
+
+  }
+  .last3{
+    display:flex;
+    flex-direction: column;
+    padding: 2rem;
+    padding-top: 8rem;
+
+  }
+  .last4{
+    display:flex;
+    flex-direction: column;
+    padding-left: 2rem;
+    padding-top: 5rem;
+
+  }
+  .b1{
+      border-left: 1px solid white;
+      height: 20rem;
+      margin-top: 2rem;}
+  .b2{
+    border-left: 1px solid white;
+    height: 20rem;
+    margin-top: 2rem;
+
+}
+.b3{
+    border-left: 1px solid white;
+    height: 20rem;
+    margin-top: 2rem;
+
+}
+.secondPart{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(255,185,190);
+    color: white;
+    border-top: 1px solid white;
+    width: 100%;
+  padding: 2rem;
+}
+.ll {
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.dd{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    flex-direction:row;
+    justify-content: flex-end;
+}
+.pp{
+    padding-top: 0.7rem;
+}
+.mm{
+    padding-left: 5px;
+    cursor: pointer;
+}
+.nn{
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+

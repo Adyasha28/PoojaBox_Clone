@@ -97,15 +97,18 @@
     
 }
 .aroma{
-    padding: 3rem;
+    padding-left: 3.5rem;
+    padding-top: 2rem;
     cursor: pointer;
 }
 .GiftBox{
-    padding: 3rem;
+    padding-left: 3.5rem;
+    padding-top: 2rem;
     cursor: pointer;
 }
 .lamps{
-    padding: 3rem;
+    padding-left: 3.5rem;
+    padding-top: 2rem;
     cursor: pointer;
 }
 .About{

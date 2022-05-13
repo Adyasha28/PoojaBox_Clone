@@ -6,6 +6,12 @@
     display: flex;
     flex-wrap: wrap;
 }
+.parent-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3rem ;
+    padding: 10px;
+}
 .space{
     display: flex;
     flex-wrap: wrap;

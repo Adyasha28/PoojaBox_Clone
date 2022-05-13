@@ -43,7 +43,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+    
 }
 
 .ss{
@@ -64,37 +64,37 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+    
 }
 .healingCrystals{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+    
 }
 .Buddha{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+    
 }
 .EvilEye{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+    
 }
 .salt{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+
 }
 .decor{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding-left: 2.5rem;
+    
 }
 .aroma{
     display:flex;

@@ -9,8 +9,8 @@
 .parent-container{
     display: flex;
     justify-content: space-between;
-    margin: 0 3rem ;
-    padding: 10px;
+    margin: 0 4rem ;
+    padding: 12px;
 }
 .under-navbar{
     display: flex;
@@ -97,15 +97,15 @@
     
 }
 .aroma{
-    padding-left: 2.5rem;
+    padding: 3rem;
     cursor: pointer;
 }
 .GiftBox{
-    padding-left: 2.5rem;
+    padding: 3rem;
     cursor: pointer;
 }
 .lamps{
-    padding-left: 2.5rem;
+    padding: 3rem;
     cursor: pointer;
 }
 .About{

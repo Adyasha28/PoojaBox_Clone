@@ -97,17 +97,15 @@
     
 }
 .aroma{
-    display:flex;
-    width:100%;
-    justify-content:center;
+    padding: 3rem;
     cursor: pointer;
 }
 .GiftBox{
-    padding: 2.5rem;
+    padding: 3rem;
     cursor: pointer;
 }
 .lamps{
-    padding: 2.5rem;
+    padding: 3rem;
     cursor: pointer;
 }
 .About{

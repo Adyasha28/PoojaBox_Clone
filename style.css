@@ -16,20 +16,19 @@
     display: flex;
     width:100%;
     flex-wrap: wrap;
+    justify-content:space-between;
     padding: 15px;}
 .logo{
-    display: flex;
-    justify-content: center;
-    padding-left: 23rem;
+    padding-left: 25rem;
 }
 .register{
     padding-top: 1rem;}
 .search{
-    padding-left: 23rem;
+    padding-left: 25rem;
     padding-top:2rem ;
 }
 .cart{
-    padding-left: 1rem;
+    padding-left: 2rem;
     padding-top:2rem ;
 
 }
@@ -136,7 +135,7 @@
     border-radius: 50%;
     height: 11rem;
     width: 11rem;
-    padding: 10px;
+    padding: 15px;
     cursor: pointer;
 }
 .space{

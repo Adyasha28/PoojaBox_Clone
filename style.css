@@ -19,18 +19,15 @@
     justify-content:space-between;
     padding: 15px;}
 .logo{
-    padding-left: 25rem;
+ justify-content:center;
 }
 .register{
     padding-top: 1rem;}
 .search{
-    padding-left: 25rem;
-    padding-top:2rem ;
+    justify-content:flex-end;
 }
 .cart{
-    padding-left: 2rem;
-    padding-top:2rem ;
-
+     justify-content:flex-end;
 }
 .btn5{
     background-color: rgb(211,19,79);
